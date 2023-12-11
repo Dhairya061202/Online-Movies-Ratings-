@@ -1,0 +1,38 @@
+/* for routing purpose for heading purpose */
+/* h1{
+    color: white;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+}
+body{
+    background-color: black;
+}
+
+/* header section or navigations bar */
+.header{
+    display: flex;
+    align-items: center;
+}
+
+/* logo */
+.logo{
+    width: 142px;
+}
+/* nav-heading */
+.nav-heading{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: 1.2rem;
+}
+/* hover effect on nav-heading */
+.nav-heading:hover{
+    color: red;
+}
+
+
+
